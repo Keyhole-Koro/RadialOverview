@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+    color-scheme: light;
+    font-family: Inter, "SF Pro Text", "Helvetica Neue", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+button {
+    font: inherit;
+}
